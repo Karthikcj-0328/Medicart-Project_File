@@ -27,7 +27,7 @@
 ```java
 public class KarthikRajaC {
 
-    private final String name       = "Karthik Raja C";
+    private final String name       = "Medicart Team";
     private final String location   = "Coimbatore, India";
     private final String degree     = "B.Sc. — Bharathiyar University (2024–2027)";
     private final String email      = "karthikrajacj@gmail.com";
