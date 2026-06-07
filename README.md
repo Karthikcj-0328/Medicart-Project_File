@@ -96,6 +96,8 @@ public class KarthikRajaC {
   </a>
 </div>
 
+> ⚡ Stats update automatically as you push more code and repos to GitHub!
+
 ---
 
 ## 🔥 Streak Stats
@@ -114,11 +116,21 @@ public class KarthikRajaC {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Skills & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthikcj-0328&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+| 🏅 Skill | ⭐ Level | 📌 Focus Area |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ████████░░ Advanced | OOP · Collections · Streams · Multithreading |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ██████░░░░ Intermediate | REST APIs · MVC · JPA |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ██████░░░░ Intermediate | Schema Design · Joins · Queries |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ████░░░░░░ Learning | Dart · UI Components · State |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ██████░░░░ Intermediate | Version Control · GitHub Flow |
+
 </div>
+
+> 🏆 Trophy wall activates automatically once you earn GitHub achievements (stars, PRs, commits)!
 
 ---
 
