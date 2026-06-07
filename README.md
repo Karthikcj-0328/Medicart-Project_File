@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Medicart%20Team%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20Enthusiast&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthik%20Raja%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20Enthusiast&descAlignY=62&descSize=16" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -27,9 +27,9 @@
 ```java
 public class KarthikRajaC {
 
-    private final String name       = "Medicart Team";
+    private final String name       = "Karthik Raja C";
     private final String location   = "Coimbatore, India";
-    private final String degree     = "B.Sc., — Bharathiyar University (2024–2027)";
+    private final String degree     = "B.Sc. — Bharathiyar University (2024–2027)";
     private final String email      = "karthikrajacj@gmail.com";
 
     private final String[] stack = {
@@ -74,6 +74,13 @@ public class KarthikRajaC {
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Design & UI/UX**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF61F6?style=flat-square&logo=figma&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6C63FF?style=flat-square&logo=figma&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-0ACF83?style=flat-square&logo=figma&logoColor=white)
 
 **Tools & Platforms**
 
