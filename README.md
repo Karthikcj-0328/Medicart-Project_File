@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/karthik-raja-c-739237381">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=karthikrajacj&style=flat-square&color=70a5fd&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Karthikcj-0328&style=flat-square&color=70a5fd&label=Profile+Views" />
 </div>
 
 ---
@@ -88,11 +88,11 @@ public class KarthikRajaC {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Karthikrajacj-0328">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthikrajacj-0328&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/Karthikcj-0328">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthikcj-0328&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/Karthikrajacj-0328">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikrajacj-0328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Karthikcj-0328">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikcj-0328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ public class KarthikRajaC {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karthikrajacj-0328&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Karthikcj-0328&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -109,7 +109,7 @@ public class KarthikRajaC {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikrajacj-0328&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikcj-0328&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ public class KarthikRajaC {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthikrajacj-0328&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthikcj-0328&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -148,7 +148,7 @@ public class KarthikRajaC {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---:|
-| **Java Full Stack App** | Java · Spring Boot · MySQL · REST API | End-to-end CRUD application with layered architecture and RESTful endpoints |
+| [**Medicart**](https://github.com/Karthikcj-0328/Medicart-Project_File) | Java · Spring Boot · MySQL · REST API | Full stack medical cart application with layered architecture and RESTful endpoints |
 | **Flutter Mobile App** | Dart · Flutter | Cross-platform mobile UI with clean state management |
 | **Database Management System** | MySQL · SQL | Relational schema design with complex queries and optimised joins |
 
@@ -204,4 +204,3 @@ public class KarthikRajaC {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
