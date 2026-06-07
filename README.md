@@ -25,7 +25,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
-public class KarthikRajaC {
+public class MedicartTeam {
 
     private final String name       = "Medicart Team";
     private final String location   = "Coimbatore, India";
